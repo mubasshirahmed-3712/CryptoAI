@@ -9,6 +9,11 @@
 
 ---
 
+## 🚀 Live Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://thecryptopredictor.streamlit.app/)
+
+---
+
 ## 📑 Table of Contents
 1. [Overview](#-overview)  
 2. [Features](#-features)  
